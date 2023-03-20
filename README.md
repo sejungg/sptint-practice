@@ -17,3 +17,8 @@
 ```shell
 $ python main.py
 ```
+
+```python 
+def hell(name)
+return f"hello,{name}"
+```
